@@ -2,7 +2,6 @@
 
 # Script to encode python payloads within a perl wrapper.
 # This makes it possible to remove/encode any and all spaces in the payload.
-# Author: @Viporizer
 
 use Encode;
 use warnings;
